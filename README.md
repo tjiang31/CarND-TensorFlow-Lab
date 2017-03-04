@@ -1,2 +1,0 @@
-# CarND-TensorFlow-Lab
-IntroToTensorFlow
